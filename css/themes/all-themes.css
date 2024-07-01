@@ -1,5 +1,5 @@
 ﻿.theme-red .navbar {
-  background-color: #F44336; }
+  background-color: #8f1313; }
 
 .theme-red .navbar-brand {
   color: #fff; }
@@ -30,7 +30,7 @@
 .theme-red .sidebar .menu .list li.active {
   background-color: transparent; }
   .theme-red .sidebar .menu .list li.active > :first-child i, .theme-red .sidebar .menu .list li.active > :first-child span {
-    color: #F44336; }
+    color: #8f1313; }
 
 .theme-red .sidebar .menu .list .toggled {
   background-color: transparent; }
@@ -41,7 +41,7 @@
 .theme-red .sidebar .legal {
   background-color: #fff; }
   .theme-red .sidebar .legal .copyright a {
-    color: #F44336 !important; }
+    color: #8f1313 !important; }
 
 .theme-pink .navbar {
   background-color: #E91E63; }
@@ -314,7 +314,7 @@
     color: #03A9F4 !important; }
 
 .theme-cyan .navbar {
-  background-color: #00BCD4; }
+  background-color: #b30000; }
 
 .theme-cyan .navbar-brand {
   color: #fff; }
@@ -345,7 +345,7 @@
 .theme-cyan .sidebar .menu .list li.active {
   background-color: transparent; }
   .theme-cyan .sidebar .menu .list li.active > :first-child i, .theme-cyan .sidebar .menu .list li.active > :first-child span {
-    color: #00BCD4; }
+    color: #b30000; }
 
 .theme-cyan .sidebar .menu .list .toggled {
   background-color: transparent; }
@@ -356,7 +356,7 @@
 .theme-cyan .sidebar .legal {
   background-color: #fff; }
   .theme-cyan .sidebar .legal .copyright a {
-    color: #00BCD4 !important; }
+    color: #b30000 !important; }
 
 .theme-teal .navbar {
   background-color: #009688; }
