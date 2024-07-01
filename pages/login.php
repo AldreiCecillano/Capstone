@@ -35,7 +35,7 @@ session_start();
         <div class="card">
             <div class="body">
                 <form id="sign_in" method="POST">
-                    <div class="msg">File Management System</div>
+                    <div class=msg><img src="../images/logo.png"></div>
                     <div class="input-group">
                         <span class="input-group-addon">
                             <i class="material-icons">person</i>
@@ -56,7 +56,7 @@ session_start();
                         <div class="col-xs-8 p-t-5">
                         </div>
                         <div class="col-xs-4">
-                            <button class="btn btn-block bg-pink waves-effect" type="submit" name="btn_submit">SIGN IN</button>
+                            <button class="btn btn-block bg-red waves-effect" type="submit" name="btn_submit">SIGN IN</button>
                         </div>
                     </div>
                 </form>

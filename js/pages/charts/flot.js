@@ -63,7 +63,7 @@ $(function () {
         {
             data: cos,
             label: 'cos(x) = -0.00',
-            color: '#00BCD4'
+            color: '#b30000'
         }
     ];
 
@@ -146,7 +146,7 @@ $(function () {
 
     $.plot('#multiple_axis_chart', [
         { data: oilprices, label: 'Oil price ($)', color: '#E91E63' },
-        { data: exchangerates, label: 'USD/EUR exchange rate', yaxis: 2, color: '#00BCD4' }
+        { data: exchangerates, label: 'USD/EUR exchange rate', yaxis: 2, color: '#b30000' }
     ], {
         xaxes: [{ mode: 'time' }],
         yaxes: [{ min: 0 }, {
@@ -183,7 +183,7 @@ $(function () {
                 show: true,
                 barWidth: 0.6
             },
-            color: '#00BCD4'
+            color: '#b30000'
         },
         grid: {
             hoverable: true,

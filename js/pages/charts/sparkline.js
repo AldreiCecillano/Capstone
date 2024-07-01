@@ -9,7 +9,7 @@ $(function () {
         offset: 90,
         width: '150px',
         height: '150px',
-        sliceColors: ['#E91E63', '#00BCD4', '#FFC107']
+        sliceColors: ['#E91E63', '#b30000', '#FFC107']
     })
 
     drawDocSparklines();
